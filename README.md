@@ -65,7 +65,7 @@
 
 ### Currently:
 
-- Currently learning about the React framework on personal projects.
+- Currently learning about the React/Next.JS framework on personal projects.
 
 ### My social medias:
 
