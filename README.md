@@ -97,5 +97,4 @@
 
 <img src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" alt="Gif"/>
 
-![snake gif](https://github.com/daniel-froes/daniel-froes/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/daniel-froes/daniel-froes/blob/output/github-contribution-grid-snake-dark.svg)
