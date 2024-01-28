@@ -76,7 +76,7 @@
   <a href="https://wa.me/5541988812441">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Zap Badge"/>
   </a>
-  <a href="https://www.instagram.com/danielfroes__/">
+  <a href="https://www.instagram.com/danielfroes.jpeg">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="github Badge"/>
   </a>
   <a href="https://www.twitch.tv/thecrabsons">
