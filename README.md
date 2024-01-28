@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/danielfroes-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-  <a href="https://tinyurl.com/4tjt548d">
+  <a href="https://wa.me/5541988812441">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Zap Badge"/>
   </a>
   <a href="https://www.instagram.com/danielfroes__/">
