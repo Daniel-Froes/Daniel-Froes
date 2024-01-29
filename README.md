@@ -51,6 +51,9 @@
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/>
   </a>
     <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize Badge"/>
+  </a>
+    <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
   </a>
 
@@ -93,11 +96,22 @@
 
 - Currently learning about the React/Next.JS framework on personal projects.
 
+- Currently Freelancer
+<div id="badges">
+  <a href="/">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge"/>
+  </a>
+  <div/>
+  
+
 ### My social medias:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/danielfroes-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+    <a href="https://daniel-froes.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://wa.me/5541988812441">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Zap Badge"/>
@@ -108,7 +122,7 @@
   <a href="https://www.twitch.tv/thecrabsons">
     <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
   </a>
-  
+
 </div>
 
 </br>
