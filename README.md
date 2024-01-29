@@ -24,6 +24,15 @@
   <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
   </a>
+  <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Badge"/>
+  </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular Badge"/>
+  </a>
 </div>
 
 - Also
@@ -41,24 +50,41 @@
     <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs Badge"/>
   </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
+  </a>
 
 </div>
 
 - Tools
 
 <div id="badges">
-
   <a href="https://github.com/daniel-froes">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite Badge"/>
   </a>
   <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
   </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
+  </a>
+      <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </a>
   <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine Badge"/>
+  </a>
+      <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge"/>
+  </a>
   <a href="https://github.com/daniel-froes">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+  </a>
+    <a href="https://github.com/daniel-froes">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Badge"/>
   </a>
   
 </div>
