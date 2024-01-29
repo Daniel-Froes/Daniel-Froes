@@ -96,11 +96,7 @@
 
 - Currently learning about the React/Next.JS framework on personal projects.
 
-- Currently Freelancer<div id="badges">
-  <a href="/">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge"/>
-  </a>
-  <div/>
+- Currently Freelancer
 
   
 
@@ -121,6 +117,9 @@
   </a>
   <a href="https://www.twitch.tv/thecrabsons">
     <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
+  </a>
+  <a href="/">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge"/>
   </a>
 
 </div>
