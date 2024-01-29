@@ -96,12 +96,12 @@
 
 - Currently learning about the React/Next.JS framework on personal projects.
 
-- Currently Freelancer
-<div id="badges">
+- Currently Freelancer<div id="badges">
   <a href="/">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer Badge"/>
   </a>
   <div/>
+
   
 
 ### My social medias:
